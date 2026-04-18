@@ -25,7 +25,7 @@ class ArtyomTuzov(Node):
         super().__init__('artyom_tuzov')
 
         self.stack = {
-            'perception':  ['YOLO11', 'ONNX Runtime', 'OpenCV', 'PyTorch'],
+            'perception':  ['YOLO', 'ONNX', 'OpenCV', 'PyTorch'],
             'robotics':    ['ROS2', 'Perception', 'Navigation'],
             'languages':   ['Python', 'C++'],
             'hw':          ['Jetson', 'Unitree', 'Raspberry'],
