@@ -28,7 +28,7 @@ class ArtyomTuzov(Node):
             'perception':  ['YOLO', 'ONNX', 'OpenCV', 'PyTorch'],
             'robotics':    ['ROS2', 'Perception', 'Navigation'],
             'languages':   ['Python', 'C++'],
-            'hw':          ['Jetson', 'Unitree', 'Raspberry'],
+            'hardware':    ['Jetson', 'Unitree', 'Raspberry'],
         }
 
         self.achievements = [
