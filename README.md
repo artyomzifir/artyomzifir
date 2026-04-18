@@ -26,7 +26,7 @@ class ArtyomTuzov(Node):
 
         self.stack = {
             'perception':  ['YOLO11', 'ONNX Runtime', 'OpenCV', 'PyTorch'],
-            'robotics':    ['ROS2', 'BehaviorTree', 'MAPF', 'Gazebo'],
+            'robotics':    ['ROS2', 'Perception', 'Navigation'],
             'languages':   ['Python', 'C++'],
             'hw':          ['Jetson', 'Unitree', 'Raspberry'],
         }
