@@ -6,8 +6,8 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artyomzifir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.tuzov.work@mail.ru)
-[![CV EN](https://img.shields.io/badge/CV%20EN-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rxresu.me/artem.a.tuzov/git-en)
-[![CV RU](https://img.shields.io/badge/CV%20RU-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://rxresu.me/artem.a.tuzov/git-ru)
+[![CV EN](https://img.shields.io/badge/CV%20EN-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://artyomzifir.github.io/cv/Artyom_Tuzov_CV_EN.pdf)
+[![CV RU](https://img.shields.io/badge/CV%20RU-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://artyomzifir.github.io/cv/Artyom_Tuzov_CV_RU.pdf)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/artyomzifir)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/artyomzifir.bsky.social)
 
