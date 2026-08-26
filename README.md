@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦝 [Artyom Tuzov](https://artyomzifir.github.io/)
+# 🦝 Artyom Tuzov
 
 **`CV/ML Engineer · Robotics Software · Innopolis`**
 
