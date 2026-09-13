@@ -1,10 +1,11 @@
 <div align="center">
 
-# 🦝 Artyom Tuzov
+# 🦝 [Artyom Tuzov](https://artyomzifir.github.io/)
 
 **`CV/ML Engineer · Robotics Software · Innopolis`**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artyomzifir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artyomzifir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.tuzov.work@mail.ru)
 [![CV EN](https://img.shields.io/badge/CV%20EN-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://artyomzifir.github.io/Artyom_Tuzov_CV_EN.pdf)
 [![CV RU](https://img.shields.io/badge/CV%20RU-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://artyomzifir.github.io/Artyom_Tuzov_CV_RU.pdf)
