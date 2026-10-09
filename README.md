@@ -38,11 +38,7 @@ class ArtyomTuzov(Node):
             '📍 Top-150 — Yandex ML-Run',
         ]
 
-        self.current = [
-            'Multi-agent swarm: LLM -> BehaviorTree -> ROS2',
-        ]
-
-        self.declare_parameter('status', 'open_to_hire')
+        self.declare_parameter('status', 'open_to_opportunities')
         self.get_logger().info('Perception online. Ready to ship. 🦝')
 
 if __name__ == '__main__':
